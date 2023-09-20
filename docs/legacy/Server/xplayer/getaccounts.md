@@ -8,7 +8,7 @@ This function gets all registered player accounts.
 
 ## Returned Table Content
 
-The returned table contains an index-value table of all accounts, and for each child there is a key-value tabl with the following content:
+The returned table contains an index-value table of all accounts, and for each child there is a key-value table with the following content:
 
 | Child | Data Type | Explanation     |
 | ----- | --------- | --------------- |
